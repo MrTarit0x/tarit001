@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me 👨‍💻
 
-- 🎓 **Student** with a strong interest in **Cybersecurity & Ethical Hacking**
+- 🎓 **Student** with a strong interest in **Cybersecurity & Ethical Hacking , Hello World**
 - 🔭 Currently exploring **security fundamentals, Linux, and low-level concepts**
 - 🌱 Always learning **new technologies and security practices**
 - 🤝 Open to collaborating on **open-source & security-focused projects**
