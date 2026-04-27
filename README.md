@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me 👨‍💻
 
 - 🎓 **Student** with a strong interest in **Cybersecurity & Ethical Hacking**
-- 🔭 Currently exploring **security fundamentals, Linux, and low-level concepts**
+- 🔭 Currently exploring **security fundamentals, Linux, and low-level concepts jgbiynjug**
 - 🌱 Always learning **new technologies and security practices**
 - 🤝 Open to collaborating on **open-source & security-focused projects**
 - 💬 Ask me about **Cybersecurity, Linux, C/C++, and open-source tools**
